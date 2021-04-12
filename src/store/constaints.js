@@ -1,0 +1,7 @@
+// signup User
+
+export const USER_SIGNUP_START = 'USER_SIGNUP_START';
+export const USER_SIGNUP_SUCCESS = 'USER_SIGNUP_SUCCESS';
+export const USER_SIGNUP_ERROR = 'USER_SIGNUP_ERROR';
+
+
